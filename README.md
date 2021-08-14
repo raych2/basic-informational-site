@@ -1,0 +1,2 @@
+# Basic Informational Site
+The purpose of this project is to create a basic web server with node.js.  The project guidelines are listed in [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/basic-informational-site) Node.js curriculum.
