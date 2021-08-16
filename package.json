@@ -1,0 +1,22 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to create a basic web server with node.js.  The project guidelines are listed in [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/basic-informational-site) Node.js curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raych2/basic-informational-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raych2/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/raych2/basic-informational-site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
